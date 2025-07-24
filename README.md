@@ -16,11 +16,12 @@ The dataset includes both states and union territories, ranked by their digital 
 
 ---
 
-## 📄 Reports
+## 📂 Files & Downloads
 
-- 📥 [Download Word Summary Report](India_Tech_Adoption_Summary[1].docx)
-- 📥 [Excel File](India's Tech Adoption.xlsx)
-- 📈 [Power BI Dashboard](#) (Tech_adoption_2.pbix)
+- 📈 [Power BI Dashboard – Tech_adoption_2.pbix](Tech_adoption_2.pbix)
+- 📊 [Raw Dataset – India’s tech adoption.xlsx](India’s%20tech%20adoption.xlsx)
+- 📝 [Word Summary Report – India_Tech_Adoption_Summary.docx](India_Tech_Adoption_Summary.docx)
+- 📄 [PDF Summary Report – India_Tech_Adoption_Summary.pdf](India_Tech_Adoption_Summary.pdf) (if added)
 
 ---
 
@@ -34,14 +35,15 @@ The dataset includes both states and union territories, ranked by their digital 
 
 ---
 
-## 📍 Tools Used
+## 🛠 Tools Used
 
-- Microsoft Excel 📊
-- Power BI 📈
-- Microsoft Word 📝
+- Microsoft Excel .xlsx 📊
+- Power BI .pbix 📈
+- Microsoft Word .docx 📝
 
 ---
 
 ## 🧠 About the Analyst
 
-Created by **[Rishav Vashisht](https://www.linkedin.com/in/rishav-vashisht-249088356)**, aspiring Business Analyst passionate about data-driven storytelling and AI-powered insights.
+Created by **[Rishav Vashisht](https://www.linkedin.com/in/rishav-vashisht-249088356)**  
+Aspiring Business Analyst | AI & Data Enthusiast | Focused on creating impactful visual stories
