@@ -19,7 +19,7 @@ The dataset includes both states and union territories, ranked by their digital 
 ## 📄 Reports
 
 - 📥 [Download Word Summary Report](India_Tech_Adoption_Summary[1].docx)
-- 📥 [Download Excel File](India's Tech Adoption.xlsx)
+- 📥 [Excel File](India's Tech Adoption.xlsx)
 - 📈 [Power BI Dashboard](#) (Tech_adoption_2.pbix)
 
 ---
